@@ -6,6 +6,7 @@ https://doi.org/10.1371/journal.pcbi.1007043
 
 
 Runnig these scripts generates the corresponding figure
+
 Figure 1: sim_A1.m
 
 Figure 2: sim_B1.m
